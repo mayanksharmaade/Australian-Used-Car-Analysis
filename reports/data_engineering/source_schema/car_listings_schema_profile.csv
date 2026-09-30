@@ -1,0 +1,20 @@
+Dataset,SourceFile,SourceColumn,SuggestedSqlColumn,PandasDtype,SuggestedSqlType,RowsSampled,NonNullCount,NullCount,NullPercentage,UniqueCount,MaxStringLength,ExampleValues
+CarListings,Australian Vehicle Prices.csv,Brand,Brand,object,NVARCHAR(50),5000,4999,1,0.02,58,13,Ssangyong | MG | BMW
+CarListings,Australian Vehicle Prices.csv,Year,Year,float64,"DECIMAL(18,4)",5000,4999,1,0.02,35,6,2022.0 | 2022.0 | 2022.0
+CarListings,Australian Vehicle Prices.csv,Model,Model,object,NVARCHAR(50),5000,4999,1,0.02,518,12,Rexton | MG3 | 430I
+CarListings,Australian Vehicle Prices.csv,Car/Suv,Car_Suv,object,NVARCHAR(100),5000,4999,1,0.02,178,54,Sutherland Isuzu Ute | Hatchback | Coupe
+CarListings,Australian Vehicle Prices.csv,Title,Title,object,NVARCHAR(100),5000,4999,1,0.02,3645,87,2022 Ssangyong Rexton Ultimate (awd) | 2022 MG MG3 Auto Excite (with Navigation) | 2022 BMW 430I M Sport
+CarListings,Australian Vehicle Prices.csv,UsedOrNew,UsedOrNew,object,NVARCHAR(50),5000,4999,1,0.02,3,4,DEMO | USED | USED
+CarListings,Australian Vehicle Prices.csv,Transmission,Transmission,object,NVARCHAR(50),5000,4999,1,0.02,3,9,Automatic | Automatic | Automatic
+CarListings,Australian Vehicle Prices.csv,Engine,Engine,object,NVARCHAR(50),5000,4999,1,0.02,75,13,"4 cyl, 2.2 L | 4 cyl, 1.5 L | 4 cyl, 2 L"
+CarListings,Australian Vehicle Prices.csv,DriveType,DriveType,object,NVARCHAR(50),5000,4999,1,0.02,5,5,AWD | Front | Rear
+CarListings,Australian Vehicle Prices.csv,FuelType,FuelType,object,NVARCHAR(50),5000,4999,1,0.02,9,8,Diesel | Premium | Premium
+CarListings,Australian Vehicle Prices.csv,FuelConsumption,FuelConsumption,object,NVARCHAR(50),5000,4999,1,0.02,128,15,8.7 L / 100 km | 6.7 L / 100 km | 6.6 L / 100 km
+CarListings,Australian Vehicle Prices.csv,Kilometres,Kilometres,object,BIGINT,5000,4999,1,0.02,4716,6,5595 | 16 | 8472
+CarListings,Australian Vehicle Prices.csv,ColourExtInt,ColourExtInt,object,NVARCHAR(100),5000,4999,1,0.02,318,72,White / Black | Black / Black | Grey / White
+CarListings,Australian Vehicle Prices.csv,Location,Location,object,NVARCHAR(50),5000,4999,1,0.02,206,25,"Caringbah, NSW | Brookvale, NSW | Sylvania, NSW"
+CarListings,Australian Vehicle Prices.csv,CylindersinEngine,CylindersinEngine,object,NVARCHAR(50),5000,4999,1,0.02,9,6,4 cyl | 4 cyl | 4 cyl
+CarListings,Australian Vehicle Prices.csv,BodyType,BodyType,object,NVARCHAR(50),5000,4918,82,1.64,10,12,SUV | Hatchback | Coupe
+CarListings,Australian Vehicle Prices.csv,Doors,Doors,object,NVARCHAR(50),5000,4471,529,10.58,7,8, 4 Doors |  5 Doors |  2 Doors
+CarListings,Australian Vehicle Prices.csv,Seats,Seats,object,NVARCHAR(50),5000,4461,539,10.78,9,9, 7 Seats |  5 Seats |  4 Seats
+CarListings,Australian Vehicle Prices.csv,Price,Price,float64,"DECIMAL(18,4)",5000,4999,1,0.02,1275,8,51990.0 | 19990.0 | 108988.0

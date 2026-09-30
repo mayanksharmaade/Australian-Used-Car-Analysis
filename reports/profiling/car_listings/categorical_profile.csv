@@ -1,0 +1,19 @@
+ColumnName,UniqueCount,MostCommonValue,MostCommonCount
+Brand,76,Toyota,2784
+Model,781,Hilux,430
+Car/Suv,618,SUV,5921
+Title,8804,2019 Hyundai I30 Active,60
+UsedOrNew,3,USED,14994
+Transmission,3,Automatic,14530
+Engine,106,"4 cyl, 2 L",3950
+DriveType,5,Front,6978
+FuelType,9,Unleaded,6985
+FuelConsumption,157,-,1697
+Kilometres,14262,- / -,449
+ColourExtInt,834,White / -,2846
+Location,618,"Minchinbury, NSW",544
+CylindersinEngine,11,4 cyl,11506
+BodyType,10,SUV,6907
+Doors,13, 4 Doors,11191
+Seats,13, 5 Seats,11313
+Price,3794,29990,252

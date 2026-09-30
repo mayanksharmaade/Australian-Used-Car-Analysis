@@ -1,0 +1,273 @@
+FactCarListingKey,CarListingId,MakeName,ModelName,ModelYear,BodyType,Transmission,FuelType,DriveType,CylinderCount,Doors,Seats,Suburb,StateCode,Postcode,Latitude,Longitude,ListingPrice,Kilometres,FuelConsumptionLPer100Km,VehicleSpecificationId,VehicleMatchScore,LocationMatchScore,SourceFileName,LoadedAtUtc
+29787,80099,BMW,M3,2021,Sedan,Automatic,Premium,AWD,6.0,4.0,5.0,,,,,,168888.0,14425.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+27747,78047,BMW,M3,2022,Sedan,Automatic,Premium,AWD,6.0,4.0,5.0,,,,,,199900.0,1550.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+27687,77987,BMW,X5,2002,SUV,Automatic,Premium,4WD,6.0,4.0,5.0,,,,,,7900.0,240850.0,0.0,3430.0,80.0,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+33147,83467,Chevrolet,Corvette,2021,Coupe,Automatic,Premium,Rear,8.0,2.0,2.0,,,,,,304950.0,1450.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+30120,80432,Chevrolet,Silverado,2020,Ute / Tray,Automatic,Unleaded,4WD,8.0,4.0,5.0,,,,,,127990.0,71792.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+30639,80951,Chevrolet,Silverado,2021,Ute / Tray,Automatic,Unleaded,4WD,8.0,4.0,5.0,,,,,,121998.0,41427.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+24897,75188,Chevrolet,Silverado,2021,Ute / Tray,Automatic,Unleaded,4WD,8.0,4.0,5.0,,,,,,145900.0,40096.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+24185,74472,Chevrolet,Silverado,2021,Ute / Tray,Automatic,Unleaded,4WD,8.0,4.0,5.0,,,,,,129990.0,32594.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+20657,70933,Chevrolet,Silverado,2021,Ute / Tray,Automatic,Unleaded,4WD,8.0,4.0,5.0,,,,,,115990.0,40017.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+28436,78743,Ford,Maverick,1990,SUV,Manual,Diesel,4WD,6.0,4.0,7.0,,,,,,12900.0,382463.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+20456,70731,Ford,F250,2002,Ute / Tray,Automatic,Diesel,4WD,8.0,4.0,5.0,,,,,,79900.0,179999.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+28479,78787,Ford,Courier,2004,Ute / Tray,Manual,Unleaded,Rear,4.0,2.0,4.0,,,,,,8999.0,281060.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+29222,79534,Ford,Courier,2006,Ute / Tray,Manual,Diesel,4WD,4.0,4.0,5.0,,,,,,9999.0,368556.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31819,82134,Ford,Transit,2018,Commercial,Automatic,Diesel,Front,4.0,2.0,3.0,,,,,,42000.0,180588.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32434,82752,Ford,Transit,2020,Commercial,Automatic,Diesel,Front,4.0,2.0,3.0,,,,,,53888.0,89840.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31695,82010,Ford,Transit,2023,Commercial,Automatic,Diesel,Rear,4.0,3.0,3.0,,,,,,64490.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+22409,72692,FPV,Pursuit,2004,Ute / Tray,Manual,Premium,Rear,8.0,2.0,2.0,,,,,,34950.0,238000.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+22604,72891,Great,Wall,2019,Ute / Tray,Manual,Diesel,4WD,4.0,2.0,2.0,,,,,,13299.0,69136.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+25765,76057,Great,Wall,2019,Ute / Tray,Manual,Diesel,Rear,4.0,2.0,2.0,,,,,,16950.0,71971.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+28392,78699,GWM,Steed,2021,Ute / Tray,Manual,Diesel,Rear,4.0,2.0,2.0,,,,,,18990.0,9900.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+22081,72363,GWM,Steed,2021,Ute / Tray,Manual,Diesel,Rear,4.0,2.0,2.0,,,,,,18990.0,85096.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31936,82253,Hino,500,2023,Commercial,Automatic,Diesel,Rear,4.0,2.0,3.0,,,,,,113769.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31913,82230,Hino,500,2023,Commercial,Automatic,Diesel,Rear,4.0,2.0,3.0,,,,,,109077.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31555,81870,Hino,500,2023,Commercial,Automatic,Diesel,Rear,4.0,2.0,3.0,,,,,,129007.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31641,81956,Hino,500,2023,Commercial,Automatic,Diesel,Rear,4.0,2.0,3.0,,,,,,103645.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31600,81915,Hino,500,2023,Commercial,Automatic,Diesel,Rear,6.0,2.0,3.0,,,,,,164009.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31811,82126,Hino,500,2023,Commercial,Automatic,Diesel,Rear,6.0,2.0,3.0,,,,,,187211.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31870,82186,Hino,500,2023,Commercial,Automatic,Diesel,Rear,6.0,2.0,3.0,,,,,,213178.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31853,82168,Hino,500,2023,Commercial,Automatic,Diesel,Rear,6.0,2.0,3.0,,,,,,150106.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31917,82234,Hino,500,2023,Commercial,Manual,Diesel,Rear,4.0,2.0,3.0,,,,,,93892.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31934,82251,Hino,500,2023,Commercial,Manual,Diesel,Rear,4.0,2.0,3.0,,,,,,119908.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31953,82270,Hino,500,2023,Commercial,Manual,Diesel,Rear,4.0,2.0,3.0,,,,,,113380.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31973,82290,Hino,500,2023,Commercial,Manual,Diesel,Rear,4.0,2.0,3.0,,,,,,104271.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31563,81878,Hino,500,2023,Commercial,Manual,Diesel,Rear,4.0,2.0,3.0,,,,,,125919.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31577,81892,Hino,500,2023,Commercial,Manual,Diesel,Rear,6.0,2.0,3.0,,,,,,202052.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31842,82157,Hino,500,2023,Commercial,Manual,Diesel,Rear,6.0,2.0,3.0,,,,,,166384.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31906,82223,Hino,700,2023,Commercial,Automatic,Diesel,Rear,6.0,2.0,2.0,,,,,,234156.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31637,81952,Hino,700,2023,Commercial,Automatic,Diesel,Rear,6.0,2.0,2.0,,,,,,219770.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31739,82054,Hino,300,2023,Commercial,Automatic,Diesel,Rear,4.0,2.0,3.0,,,,,,61969.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31750,82065,Hino,300,2023,Commercial,Automatic,Diesel,Rear,4.0,2.0,3.0,,,,,,81569.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31960,82277,Hino,300,2023,Commercial,Automatic,Diesel,Rear,4.0,2.0,3.0,,,,,,73499.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32049,82367,Hino,300,2023,Commercial,Automatic,Diesel,Rear,4.0,2.0,3.0,,,,,,61006.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32071,82389,Hino,300,2023,Ute / Tray,Automatic,Diesel,Rear,4.0,2.0,3.0,,,,,,82073.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31981,82298,Hino,300,2023,Ute / Tray,Automatic,Diesel,Rear,4.0,2.0,3.0,,,,,,60632.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31684,81999,Hino,300,2023,Ute / Tray,Automatic,Diesel,Rear,4.0,2.0,3.0,,,,,,72350.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31957,82274,Hino,300,2023,Ute / Tray,Automatic,Diesel,Rear,4.0,4.0,7.0,,,,,,88020.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31955,82272,Hino,300,2023,Ute / Tray,Manual,Diesel,Rear,4.0,2.0,3.0,,,,,,66336.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+33251,83571,Holden,Rodeo,2003,Ute / Tray,Manual,Diesel,4WD,4.0,4.0,5.0,,,,,,12999.0,268252.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+26110,76404,Holden,Rodeo,2003,Ute / Tray,Manual,Unleaded,Rear,4.0,2.0,3.0,,,,,,10999.0,234800.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+27030,77329,Holden,Rodeo,2004,Ute / Tray,Automatic,Diesel,4WD,4.0,4.0,5.0,,,,,,11999.0,278000.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+22498,72784,Holden,Rodeo,2004,Ute / Tray,Automatic,Unleaded,Rear,6.0,4.0,5.0,,,,,,6999.0,311354.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+24589,74879,Holden,Rodeo,2004,Ute / Tray,Manual,Diesel,4WD,4.0,2.0,2.0,,,,,,9990.0,383111.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+19620,69890,Holden,Rodeo,2004,Ute / Tray,Manual,Unleaded,Rear,4.0,4.0,5.0,,,,,,9999.0,108283.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+27644,77944,Holden,Rodeo,2004,Ute / Tray,Manual,Unleaded,Rear,6.0,4.0,5.0,,,,,,9499.0,273980.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+19921,70193,Holden,Rodeo,2005,Ute / Tray,Automatic,Unleaded,4WD,6.0,4.0,5.0,,,,,,5999.0,391968.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+30052,80364,Holden,Rodeo,2005,Ute / Tray,Automatic,Unleaded,Rear,6.0,4.0,5.0,,,,,,8990.0,310323.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32705,83024,Holden,Rodeo,2005,Ute / Tray,Manual,Unleaded,Rear,6.0,2.0,2.0,,,,,,9990.0,353047.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+17019,67280,Holden,Rodeo,2005,Ute / Tray,Manual,Unleaded,Rear,6.0,4.0,5.0,,,,,,9913.0,169587.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+21568,71846,Holden,Rodeo,2006,Ute / Tray,Manual,Diesel,4WD,4.0,2.0,2.0,,,,,,9990.0,384500.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+27157,77457,Holden,Rodeo,2006,Ute / Tray,Manual,Diesel,4WD,4.0,4.0,5.0,,,,,,11990.0,334958.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+26467,76761,Holden,Crewman,2004,Ute / Tray,Automatic,Unleaded,Rear,6.0,4.0,5.0,,,,,,11995.0,220501.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+24891,75182,Holden,Crewman,2005,Ute / Tray,Automatic,Unleaded,Rear,6.0,4.0,5.0,,,,,,10989.0,250131.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+25010,75301,Holden,Crewman,2005,Ute / Tray,Automatic,Unleaded,Rear,6.0,4.0,5.0,,,,,,11990.0,231709.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+27364,77664,Holden,Crewman,2005,Ute / Tray,Automatic,Unleaded,Rear,8.0,4.0,5.0,,,,,,17999.0,174285.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+23692,73979,Holden,Adventra,2005,SUV,Automatic,Unleaded,AWD,6.0,4.0,5.0,,,,,,8499.0,270714.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+25902,76195,Holden,Adventra,2005,SUV,Automatic,Unleaded,AWD,6.0,4.0,5.0,,,,,,12980.0,182460.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+28763,79073,Holden,Adventra,2005,SUV,Automatic,Unleaded,AWD,6.0,4.0,5.0,,,,,,8500.0,215216.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+30929,81242,Holden,Adventra,2006,SUV,Automatic,Unleaded,AWD,6.0,4.0,5.0,,,,,,6990.0,310704.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32443,82761,Holden,HDT,1984,Sedan,Manual,Leaded,Rear,8.0,4.0,5.0,,,,,,148880.0,204733.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32235,82553,Holden,Commodore,2002,Ute / Tray,Automatic,Unleaded,Rear,8.0,2.0,2.0,,,,,,19990.0,173934.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32243,82561,Holden,Commodore,2003,Ute / Tray,Manual,Unleaded,Rear,8.0,2.0,2.0,,,,,,16995.0,247563.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+22632,72919,Holden,Commodore,2005,Ute / Tray,Automatic,Unleaded,Rear,8.0,2.0,2.0,,,,,,27990.0,114703.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+19203,69473,Holden,Commodore,2005,Ute / Tray,Manual,Unleaded,Rear,6.0,2.0,2.0,,,,,,12500.0,143242.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+20301,70576,Holden,Commodore,2005,Ute / Tray,Manual,Unleaded,Rear,6.0,2.0,2.0,,,,,,12990.0,180042.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31245,81559,Holden,Commodore,2005,Ute / Tray,Manual,Unleaded,Rear,6.0,2.0,2.0,,,,,,5990.0,259743.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+19514,69784,Honda,Accord,2005,Sedan,Automatic,Unleaded,Front,4.0,4.0,5.0,,,,,,7590.0,176789.0,0.0,3497.0,80.0,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+29598,79910,HSV,Avalanche,2004,Ute / Tray,Automatic,Premium,AWD,8.0,4.0,5.0,,,,,,31995.0,262037.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+28589,78897,HSV,Clubsport,2006,Sedan,Automatic,Premium,Rear,8.0,4.0,5.0,,,,,,42990.0,80014.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+30596,80908,HSV,Coupe,2006,Coupe,Manual,Premium,Rear,8.0,2.0,4.0,,,,,,121990.0,16665.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31212,81525,HSV,Maloo,1996,Ute / Tray,Automatic,Unleaded,Rear,8.0,2.0,3.0,,,,,,39990.0,196528.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32115,82433,Hyundai,Trucks,2023,Other,Automatic,Diesel,Rear,4.0,2.0,3.0,,,,,,74594.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31779,82094,Hyundai,Trucks,2023,Other,Manual,Diesel,Rear,4.0,2.0,3.0,,,,,,68544.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31780,82095,Hyundai,Trucks,2023,Ute / Tray,Automatic,Diesel,Rear,4.0,2.0,3.0,,,,,,63205.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31776,82091,Hyundai,Trucks,2023,Ute / Tray,Automatic,Diesel,Rear,4.0,2.0,3.0,,,,,,55394.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31777,82092,Hyundai,Trucks,2023,Ute / Tray,Automatic,Diesel,Rear,4.0,2.0,3.0,,,,,,61524.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32113,82431,Hyundai,Trucks,2023,Ute / Tray,Automatic,Diesel,Rear,4.0,2.0,3.0,,,,,,70232.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31783,82098,Hyundai,Trucks,2023,Ute / Tray,Manual,Diesel,Rear,4.0,2.0,3.0,,,,,,57155.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31787,82102,Hyundai,Trucks,2023,Ute / Tray,Manual,Diesel,Rear,4.0,2.0,3.0,,,,,,58596.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31609,81924,International,Prostar,2023,Commercial,Manual,Diesel,Rear,6.0,2.0,,,,,,,368775.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31570,81885,International,Prostar,2023,Commercial,Manual,Diesel,Rear,6.0,2.0,,,,,,,314600.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31834,82149,Isuzu,NLS,2023,Other,Manual,Diesel,AWD,4.0,2.0,3.0,,,,,,77061.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31552,81867,Isuzu,NLS,2023,Ute / Tray,Manual,Diesel,AWD,4.0,2.0,7.0,,,,,,63948.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32056,82374,Isuzu,FRR,2023,Ute / Tray,Automatic,Diesel,Rear,4.0,2.0,3.0,,,,,,114461.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31948,82265,Isuzu,FRR,2023,Ute / Tray,Automatic,Diesel,Rear,6.0,2.0,3.0,,,,,,131088.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32069,82387,Isuzu,FRR,2023,Ute / Tray,Manual,Diesel,Rear,4.0,2.0,3.0,,,,,,108461.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32046,82364,Isuzu,FRR,2023,Ute / Tray,Manual,Diesel,Rear,6.0,2.0,3.0,,,,,,120188.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32041,82359,Isuzu,FRR,2023,Ute / Tray,Manual,Diesel,Rear,6.0,2.0,3.0,,,,,,118387.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31939,82256,Isuzu,NPR,2023,Ute / Tray,Manual,Diesel,Rear,4.0,2.0,3.0,,,,,,78488.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31889,82205,Isuzu,NPR,2023,Ute / Tray,Manual,Diesel,Rear,4.0,4.0,7.0,,,,,,82238.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31633,81948,Isuzu,NLR,2023,Other,Automatic,Diesel,Rear,4.0,2.0,3.0,,,,,,71401.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31647,81962,Isuzu,NLR,2023,Ute / Tray,Automatic,Diesel,Rear,4.0,2.0,3.0,,,,,,58023.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31626,81941,Isuzu,NLR,2023,Ute / Tray,Manual,Diesel,Rear,4.0,2.0,3.0,,,,,,60846.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31735,82050,Isuzu,FSR,2023,Ute / Tray,Automatic,Diesel,Rear,4.0,2.0,3.0,,,,,,140605.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31604,81919,Isuzu,FSR,2023,Ute / Tray,Automatic,Diesel,Rear,6.0,2.0,3.0,,,,,,184564.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31815,82130,Isuzu,FSR,2023,Ute / Tray,Manual,Diesel,Rear,6.0,2.0,3.0,,,,,,138457.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31827,82142,Isuzu,NQR,2023,Commercial,Automatic,Diesel,Rear,4.0,2.0,3.0,,,,,,103983.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31962,82279,Isuzu,NQR,2023,Commercial,Manual,Diesel,Rear,4.0,2.0,3.0,,,,,,87389.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31644,81959,Isuzu,NMR,2023,Other,Manual,Diesel,Rear,4.0,2.0,3.0,,,,,,71561.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31926,82243,Isuzu,NMR,2023,Other,Manual,Diesel,Rear,4.0,2.0,3.0,,,,,,74874.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31583,81898,Isuzu,FYJ,2023,Ute / Tray,Manual,Diesel,Rear,6.0,2.0,3.0,,,,,,240754.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31767,82082,Isuzu,FYX,2023,Ute / Tray,Automatic,Diesel,Rear,6.0,2.0,3.0,,,,,,293131.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31544,81859,Isuzu,FTS,2023,Ute / Tray,Automatic,Diesel,4WD,6.0,2.0,3.0,,,,,,210992.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31820,82135,Isuzu,FVL,2023,Ute / Tray,Manual,Diesel,Rear,6.0,2.0,3.0,,,,,,195100.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31620,81935,Isuzu,NNR,2023,Ute / Tray,Automatic,Diesel,Rear,4.0,2.0,3.0,,,,,,66325.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31652,81967,Isuzu,NNR,2023,Ute / Tray,Automatic,Diesel,Rear,4.0,2.0,3.0,,,,,,62779.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31618,81933,Isuzu,NNR,2023,Ute / Tray,Manual,Diesel,Rear,4.0,4.0,7.0,,,,,,71720.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31849,82164,Isuzu,FRD,2023,Ute / Tray,Automatic,Diesel,Rear,4.0,2.0,3.0,,,,,,120641.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31801,82116,Isuzu,FVD,2023,Ute / Tray,Automatic,Diesel,Rear,6.0,2.0,3.0,,,,,,197239.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31759,82074,Isuzu,FVD,2023,Ute / Tray,Automatic,Diesel,Rear,6.0,4.0,7.0,,,,,,221527.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31859,82175,Iveco,Stralis,2023,Commercial,Automatic,Diesel,Rear,6.0,2.0,2.0,,,,,,315744.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31864,82180,Iveco,Stralis,2023,Commercial,Automatic,Diesel,Rear,6.0,2.0,2.0,,,,,,320467.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31867,82183,Iveco,Stralis,2023,Commercial,Automatic,Diesel,Rear,6.0,2.0,2.0,,,,,,329248.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31872,82188,Iveco,Stralis,2023,Commercial,Automatic,Diesel,Rear,6.0,2.0,2.0,,,,,,332626.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31876,82192,Iveco,Stralis,2023,Commercial,Automatic,Diesel,Rear,6.0,2.0,2.0,,,,,,309853.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31561,81876,Iveco,Stralis,2023,Commercial,Automatic,Diesel,Rear,6.0,2.0,2.0,,,,,,197482.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31593,81908,Iveco,Stralis,2023,Commercial,Automatic,Diesel,Rear,6.0,2.0,2.0,,,,,,323132.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31587,81902,Iveco,Stralis,2023,Commercial,Automatic,Diesel,Rear,6.0,2.0,2.0,,,,,,272260.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31597,81912,Iveco,Stralis,2023,Commercial,Automatic,Diesel,Rear,6.0,2.0,2.0,,,,,,274436.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31591,81906,Iveco,Stralis,2023,Commercial,Automatic,Diesel,Rear,6.0,2.0,2.0,,,,,,273518.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31602,81917,Iveco,Stralis,2023,Commercial,Automatic,Diesel,Rear,6.0,2.0,2.0,,,,,,329475.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31611,81926,Iveco,Stralis,2023,Commercial,Automatic,Diesel,Rear,6.0,2.0,2.0,,,,,,316787.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31688,82003,Iveco,Eurocargo,2023,Commercial,Automatic,Diesel,Rear,6.0,2.0,,,,,,,140730.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31704,82019,Iveco,Eurocargo,2023,Commercial,Automatic,Diesel,Rear,6.0,2.0,,,,,,,159471.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31988,82305,Iveco,Eurocargo,2023,Commercial,Automatic,Diesel,Rear,6.0,2.0,,,,,,,148566.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31983,82300,Iveco,Eurocargo,2023,Commercial,Automatic,Diesel,Rear,6.0,2.0,,,,,,,155071.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31999,82317,Iveco,Eurocargo,2023,Commercial,Manual,Diesel,Rear,6.0,2.0,,,,,,,152028.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+22005,72287,Iveco,Daily,2019,Commercial,Automatic,Diesel,Rear,4.0,2.0,3.0,,,,,,26950.0,347128.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31765,82080,Iveco,Daily,2023,Commercial,Automatic,Diesel,Rear,4.0,3.0,3.0,,,,,,86697.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32109,82427,Iveco,Daily,2023,Commercial,Automatic,Diesel,Rear,4.0,3.0,3.0,,,,,,64303.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32094,82412,Iveco,Daily,2023,Commercial,Automatic,Diesel,Rear,4.0,3.0,3.0,,,,,,90883.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32123,82441,Iveco,Daily,2023,Commercial,Automatic,Diesel,Rear,4.0,3.0,3.0,,,,,,78252.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32128,82446,Iveco,Daily,2023,Commercial,Manual,Diesel,Rear,4.0,3.0,3.0,,,,,,70202.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32120,82438,Iveco,Daily,2023,Commercial,Manual,Diesel,Rear,4.0,3.0,3.0,,,,,,59738.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32097,82415,Iveco,Daily,2023,Commercial,Manual,Diesel,Rear,4.0,3.0,3.0,,,,,,90504.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32102,82420,Iveco,Daily,2023,Commercial,Manual,Diesel,Rear,4.0,3.0,3.0,,,,,,90640.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32125,82443,Iveco,Daily,2023,Ute / Tray,Automatic,Diesel,Rear,4.0,2.0,3.0,,,,,,71559.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32133,82451,Iveco,Daily,2023,Ute / Tray,Automatic,Diesel,Rear,4.0,2.0,3.0,,,,,,83909.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32136,82454,Iveco,Daily,2023,Ute / Tray,Automatic,Diesel,Rear,4.0,4.0,6.0,,,,,,86714.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32130,82448,Iveco,Daily,2023,Ute / Tray,Automatic,Diesel,Rear,4.0,4.0,6.0,,,,,,75789.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31788,82103,Iveco,Daily,2023,Ute / Tray,Automatic,Diesel,Rear,4.0,4.0,6.0,,,,,,79514.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31790,82105,Iveco,Daily,2023,Ute / Tray,Manual,Diesel,Rear,4.0,2.0,3.0,,,,,,65614.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31793,82108,Iveco,Daily,2023,Ute / Tray,Manual,Diesel,Rear,4.0,2.0,3.0,,,,,,76539.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31792,82107,Iveco,Daily,2023,Ute / Tray,Manual,Diesel,Rear,4.0,4.0,6.0,,,,,,82609.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+20122,70395,Land,Rover,2001,SUV,Automatic,Unleaded,4WD,8.0,4.0,5.0,,,,,,8995.0,315338.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31978,82295,LDV,Deliver,2023,Commercial,Automatic,Diesel,Rear,4.0,5.0,3.0,,,,,,51042.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32005,82323,LDV,Deliver,2023,Other,Automatic,Diesel,Rear,3.0,2.0,14.0,,,,,,64200.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+28385,78692,Lexus,LX470,1999,SUV,Automatic,Premium,4WD,8.0,4.0,8.0,,,,,,24999.0,240000.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+26653,76950,Mahindra,PIK-UP,2022,Ute / Tray,Automatic,Diesel,4WD,4.0,4.0,5.0,,,,,,38290.0,5.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31699,82014,Mahindra,PIK-UP,2023,Ute / Tray,Manual,Diesel,4WD,4.0,4.0,5.0,,,,,,34500.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+24418,74708,Mazda,E2000,1994,Commercial,Automatic,Unleaded,Rear,4.0,2.0,3.0,,,,,,14999.0,183197.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31911,82228,Mazda,CX-60,2023,SUV,Automatic,Hybrid,AWD,6.0,4.0,5.0,,,,,,77000.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+26094,76388,Mercedes-Benz,CLK320,2003,Coupe,Automatic,Unleaded,Rear,6.0,2.0,5.0,,,,,,10999.0,158925.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+23934,74221,Mercedes-Benz,CLK320,2003,Coupe,Automatic,Unleaded,Rear,6.0,2.0,5.0,,,,,,13490.0,92000.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+19898,70170,Mercedes-Benz,CLK320,2004,Coupe,Automatic,Unleaded,Rear,6.0,2.0,5.0,,,,,,9800.0,213745.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+17784,68049,Mercedes-Benz,Sprinter,2013,Commercial,Automatic,Diesel,Rear,4.0,2.0,2.0,,,,,,35990.0,151045.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+19474,69744,Mercedes-Benz,Sprinter,2015,Commercial,Automatic,Diesel,Rear,4.0,3.0,2.0,,,,,,23990.0,288341.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+28509,78817,Mercedes-Benz,Sprinter,2015,Commercial,Automatic,Diesel,Rear,4.0,3.0,2.0,,,,,,23888.0,375901.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+20202,70476,Mercedes-Benz,Sprinter,2017,Commercial,Automatic,Diesel,Rear,6.0,3.0,2.0,,,,,,36888.0,187563.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31521,81836,Mercedes-Benz,Sprinter,2023,Commercial,Automatic,Diesel,Rear,4.0,3.0,2.0,,,,,,80437.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31515,81830,Mercedes-Benz,Sprinter,2023,Commercial,Automatic,Diesel,Rear,4.0,3.0,2.0,,,,,,79229.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31509,81824,Mercedes-Benz,Sprinter,2023,Commercial,Automatic,Diesel,Rear,4.0,3.0,2.0,,,,,,91669.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31530,81845,Mercedes-Benz,Sprinter,2023,Commercial,Automatic,Diesel,Rear,4.0,3.0,2.0,,,,,,83579.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31775,82090,Mercedes-Benz,Sprinter,2023,Commercial,Automatic,Diesel,Rear,4.0,3.0,2.0,,,,,,92031.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31786,82101,Mercedes-Benz,Sprinter,2023,Commercial,Automatic,Diesel,Rear,4.0,3.0,2.0,,,,,,87684.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31507,81822,Mercedes-Benz,Sprinter,2023,Other,Automatic,Diesel,Rear,4.0,2.0,15.0,,,,,,91537.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+28012,78313,Mercedes-Benz,MB100,2002,Commercial,Manual,Diesel,Front,5.0,4.0,2.0,,,,,,9999.0,50885.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+21521,71799,Mercedes-Benz,MB100,2002,Commercial,Manual,Diesel,Front,5.0,4.0,2.0,,,,,,1895.0,460269.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+18655,68923,Mercedes-Benz,E55,2004,Sedan,Automatic,Premium,Rear,8.0,4.0,5.0,,,,,,38950.0,167083.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+22370,72653,Mercedes-Benz,E55,2005,Sedan,Automatic,Premium,Rear,8.0,4.0,5.0,,,,,,38990.0,183313.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+28605,78914,Mercedes-Benz,SL350,2004,Convertible,Automatic,Unleaded,Rear,6.0,2.0,2.0,,,,,,27980.0,146785.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+26542,76837,Mercedes-Benz,CLK500,2005,Coupe,Automatic,Unleaded,Rear,8.0,2.0,5.0,,,,,,24990.0,156223.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32360,82678,Mercedes-Benz,SL500,2005,Convertible,Automatic,Unleaded,Rear,8.0,2.0,2.0,,,,,,47950.0,78774.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+30234,80546,Mitsubishi,Pajero,2003,SUV,Automatic,Diesel,4WD,4.0,4.0,7.0,,,,,,11999.0,318206.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+23955,74242,Mitsubishi,Pajero,2003,SUV,Automatic,Diesel,4WD,4.0,4.0,7.0,,,,,,9990.0,343128.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+29778,80090,Mitsubishi,Pajero,2003,SUV,Manual,Diesel,4WD,4.0,4.0,7.0,,,,,,8999.0,401826.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+27289,77589,Mitsubishi,Pajero,2004,SUV,Automatic,Diesel,4WD,4.0,4.0,7.0,,,,,,13990.0,269987.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+24832,75123,Mitsubishi,Pajero,2006,SUV,Manual,Diesel,4WD,4.0,4.0,7.0,,,,,,12975.0,342530.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+23197,73484,Nissan,Navara,2001,Ute / Tray,Manual,Unleaded,4WD,6.0,4.0,5.0,,,,,,8990.0,235256.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+24081,74368,Nissan,Navara,2002,Ute / Tray,Manual,Diesel,4WD,4.0,4.0,5.0,,,,,,8999.0,263239.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+30557,80869,Nissan,350Z,2003,Convertible,Manual,Premium,Rear,6.0,2.0,2.0,,,,,,22990.0,98615.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+18091,68357,Nissan,Patrol,1999,SUV,Manual,Diesel,4WD,6.0,4.0,7.0,,,,,,13990.0,274098.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31016,81329,Nissan,Patrol,2000,SUV,Manual,Diesel,4WD,4.0,4.0,7.0,,,,,,15990.0,370553.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+27479,77779,Nissan,Patrol,2000,SUV,Manual,Diesel,4WD,4.0,4.0,7.0,,,,,,11999.0,388433.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+20039,70312,Nissan,Patrol,2001,SUV,Automatic,Unleaded,4WD,6.0,4.0,7.0,,,,,,16990.0,156956.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+17261,67523,Nissan,Patrol,2001,SUV,Manual,Diesel,4WD,4.0,4.0,7.0,,,,,,16950.0,309774.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+25342,75633,Nissan,Patrol,2002,SUV,Automatic,Diesel,4WD,4.0,4.0,7.0,,,,,,20000.0,352185.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+25053,75344,Nissan,Patrol,2002,SUV,Automatic,Diesel,4WD,4.0,4.0,7.0,,,,,,17999.0,302328.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+25827,76120,Nissan,Patrol,2002,SUV,Automatic,Diesel,4WD,4.0,4.0,7.0,,,,,,19999.0,244453.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+26566,76861,Nissan,Patrol,2002,SUV,Automatic,Unleaded,4WD,6.0,4.0,7.0,,,,,,16990.0,349275.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32285,82603,Nissan,Patrol,2002,SUV,Manual,Diesel,4WD,4.0,4.0,5.0,,,,,,9999.0,434896.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+25895,76188,Nissan,Patrol,2003,SUV,Automatic,Diesel,4WD,4.0,4.0,7.0,,,,,,10989.0,437226.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+27854,78154,Nissan,Patrol,2003,SUV,Manual,Diesel,4WD,4.0,4.0,7.0,,,,,,39999.0,135460.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+26911,77208,Nissan,Patrol,2003,SUV,Manual,Diesel,4WD,4.0,4.0,7.0,,,,,,12999.0,392353.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31199,81512,Nissan,Patrol,2003,SUV,Manual,Diesel,4WD,4.0,4.0,7.0,,,,,,15990.0,284253.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+17580,67845,Nissan,Patrol,2003,SUV,Manual,Diesel,4WD,4.0,4.0,7.0,,,,,,16880.0,332861.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+22060,72342,Nissan,Patrol,2004,SUV,Automatic,Diesel,4WD,4.0,4.0,7.0,,,,,,29950.0,282076.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+28428,78735,Porsche,Boxster,1998,Convertible,Manual,Premium,Rear,6.0,2.0,2.0,,,,,,27250.0,134000.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32629,82948,Porsche,911,1978,Convertible,Manual,Leaded,Rear,6.0,2.0,4.0,,,,,,97500.0,145600.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+20548,70823,Porsche,911,2002,Convertible,Automatic,Premium,Rear,6.0,2.0,4.0,,,,,,89990.0,151438.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31436,81750,Renault,Master,2023,Commercial,Automatic,Diesel,Front,4.0,3.0,3.0,,,,,,55200.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+20339,70614,Renault,Master,2023,Commercial,Manual,Diesel,Front,4.0,3.0,3.0,,,,,,55980.0,10.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+16718,66979,Toyota,HiAce,2003,Commercial,Automatic,Unleaded,Rear,4.0,4.0,3.0,,,,,,9999.0,266848.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+19508,69778,Toyota,HiAce,2003,Commercial,Manual,Unleaded,Rear,4.0,4.0,2.0,,,,,,27995.0,212777.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32053,82371,Toyota,HiAce,2005,Commercial,Automatic,Diesel,Rear,4.0,4.0,3.0,,,,,,21900.0,202406.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+23144,73431,Toyota,HiAce,2006,People Mover,Automatic,Unleaded,Rear,4.0,3.0,14.0,,,,,,19913.0,312315.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31830,82145,Toyota,HiAce,2021,People Mover,Automatic,Diesel,Rear,4.0,3.0,12.0,,,,,,74990.0,81184.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31390,81704,Toyota,HiAce,2023,People Mover,Automatic,Diesel,Rear,4.0,3.0,12.0,,,,,,69760.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+30319,80631,Toyota,Coaster,2022,People Mover,Automatic,Diesel,Rear,4.0,3.0,22.0,,,,,,155988.0,3842.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31603,81918,Toyota,Coaster,2023,People Mover,Automatic,Diesel,Rear,4.0,3.0,22.0,,,,,,142180.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+27227,77527,Toyota,Landcruiser,1991,SUV,Manual,Diesel,4WD,6.0,4.0,8.0,,,,,,29800.0,450000.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+30181,80493,Toyota,Landcruiser,1993,SUV,Automatic,Unleaded,4WD,6.0,4.0,8.0,,,,,,12999.0,413515.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+24681,74971,Toyota,Landcruiser,1993,SUV,Manual,Diesel,4WD,6.0,2.0,6.0,,,,,,24999.0,452920.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+28560,78868,Toyota,Landcruiser,1994,SUV,Automatic,Unleaded,4WD,6.0,4.0,8.0,,,,,,18999.0,331794.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+28010,78311,Toyota,Landcruiser,1996,Ute / Tray,Manual,Diesel,4WD,6.0,2.0,3.0,,,,,,22000.0,386381.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+28421,78728,Toyota,Landcruiser,1998,SUV,Automatic,Unleaded,4WD,6.0,4.0,8.0,,,,,,16500.0,312000.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+21994,72276,Toyota,Landcruiser,1998,SUV,Manual,Diesel,4WD,6.0,2.0,11.0,,,,,,45950.0,209031.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+21679,71959,Toyota,Landcruiser,1998,SUV,Manual,Diesel,4WD,6.0,4.0,6.0,,,,,,14800.0,415902.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+19791,70063,Toyota,Landcruiser,1998,SUV,Manual,Unleaded,4WD,6.0,4.0,8.0,,,,,,22990.0,252221.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+17514,67779,Toyota,Landcruiser,1999,SUV,Automatic,Diesel,4WD,6.0,4.0,8.0,,,,,,22999.0,394167.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+23278,73565,Toyota,Landcruiser,1999,SUV,Manual,Diesel,4WD,6.0,2.0,11.0,,,,,,27999.0,221109.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+26844,77141,Toyota,Landcruiser,1999,SUV,Manual,Unleaded,4WD,6.0,4.0,6.0,,,,,,13988.0,473640.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+16912,67173,Toyota,Landcruiser,1999,Ute / Tray,Manual,Diesel,4WD,6.0,2.0,3.0,,,,,,48999.0,41750.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+19560,69830,Toyota,Landcruiser,1999,Ute / Tray,Manual,Diesel,4WD,6.0,2.0,3.0,,,,,,44999.0,51284.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+24646,74936,Toyota,Landcruiser,2001,SUV,Automatic,Unleaded,4WD,6.0,4.0,8.0,,,,,,19999.0,223879.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+21908,72189,Toyota,Landcruiser,2002,SUV,Automatic,Diesel,4WD,4.0,4.0,8.0,,,,,,14990.0,246100.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+20779,71055,Toyota,Landcruiser,2002,SUV,Automatic,Diesel,4WD,4.0,4.0,8.0,,,,,,10990.0,433260.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+29629,79941,Toyota,Landcruiser,2002,SUV,Automatic,Diesel,4WD,6.0,4.0,8.0,,,,,,32999.0,326200.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+26134,76428,Toyota,Landcruiser,2002,SUV,Manual,Diesel,4WD,4.0,4.0,8.0,,,,,,15999.0,335550.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+26193,76487,Toyota,Landcruiser,2002,SUV,Manual,Diesel,4WD,6.0,4.0,6.0,,,,,,19999.0,401300.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+22274,72557,Toyota,Landcruiser,2004,SUV,Automatic,Diesel,4WD,6.0,4.0,8.0,,,,,,69900.0,350999.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+29117,79429,Toyota,Landcruiser,2004,SUV,Automatic,Unleaded,4WD,8.0,4.0,8.0,,,,,,28990.0,240000.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+21905,72186,Toyota,Landcruiser,2004,SUV,Automatic,Unleaded,4WD,8.0,4.0,8.0,,,,,,14913.0,417079.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+21631,71911,Toyota,Landcruiser,2004,SUV,Automatic,Unleaded,4WD,8.0,4.0,8.0,,,,,,19950.0,329187.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+30112,80424,Toyota,Landcruiser,2004,SUV,Manual,Diesel,4WD,6.0,4.0,6.0,,,,,,27990.0,308080.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+25286,75577,Toyota,Landcruiser,2004,Ute / Tray,Manual,Diesel,4WD,6.0,2.0,3.0,,,,,,44990.0,342898.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+24857,75148,Toyota,Landcruiser,2005,SUV,Manual,Diesel,4WD,6.0,2.0,11.0,,,,,,34999.0,297300.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+29866,80178,Toyota,Landcruiser,2005,SUV,Manual,Diesel,4WD,6.0,4.0,8.0,,,,,,37990.0,236287.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32346,82664,Toyota,Landcruiser,2005,SUV,Manual,Diesel,4WD,6.0,4.0,8.0,,,,,,34999.0,361771.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+20938,71214,Toyota,Hilux,1998,Ute / Tray,Manual,Diesel,4WD,4.0,2.0,3.0,,,,,,15995.0,248767.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+26722,77019,Toyota,Hilux,1999,Ute / Tray,Manual,Diesel,4WD,4.0,4.0,5.0,,,,,,14999.0,299986.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+26173,76467,Toyota,Hilux,1999,Ute / Tray,Manual,Unleaded,Rear,4.0,2.0,3.0,,,,,,9990.0,203255.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+24894,75185,Toyota,Hilux,2000,Ute / Tray,Manual,Diesel,4WD,4.0,2.0,3.0,,,,,,19990.0,241621.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+22727,73014,Toyota,Hilux,2000,Ute / Tray,Manual,Diesel,4WD,4.0,4.0,5.0,,,,,,29950.0,128896.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+28119,78420,Toyota,Hilux,2000,Ute / Tray,Manual,Diesel,4WD,4.0,4.0,5.0,,,,,,7999.0,492659.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+23771,74058,Toyota,Hilux,2001,Ute / Tray,Manual,Diesel,4WD,4.0,4.0,5.0,,,,,,13999.0,337400.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+25223,75514,Toyota,Hilux,2001,Ute / Tray,Manual,Unleaded,Rear,4.0,2.0,3.0,,,,,,10490.0,212882.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+19296,69566,Toyota,Hilux,2001,Ute / Tray,Manual,Unleaded,Rear,4.0,2.0,3.0,,,,,,4750.0,392793.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+27599,77899,Toyota,Hilux,2002,Ute / Tray,Manual,Unleaded,4WD,4.0,2.0,2.0,,,,,,10900.0,327445.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+17348,67611,Toyota,Hilux,2004,Ute / Tray,Manual,Diesel,4WD,4.0,4.0,5.0,,,,,,16999.0,415913.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+19463,69733,Volkswagen,Crafter,2016,Commercial,Manual,Diesel,Rear,4.0,3.0,2.0,,,,,,27995.0,246838.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+17005,67266,Volkswagen,Crafter,2016,Commercial,Manual,Diesel,Rear,4.0,3.0,2.0,,,,,,25995.0,265837.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+17841,68106,Volkswagen,Crafter,2020,Commercial,Automatic,Diesel,Front,4.0,2.0,3.0,,,,,,49888.0,101449.0,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31771,82086,Volkswagen,Crafter,2023,Commercial,Automatic,Diesel,AWD,4.0,2.0,3.0,,,,,,69290.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31769,82084,Volkswagen,Crafter,2023,Commercial,Automatic,Diesel,Front,4.0,2.0,3.0,,,,,,65280.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32107,82425,Volkswagen,Crafter,2023,Commercial,Automatic,Diesel,Rear,4.0,2.0,3.0,,,,,,74790.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32100,82418,Volkswagen,Crafter,2023,Commercial,Manual,Diesel,AWD,4.0,2.0,3.0,,,,,,64790.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32081,82399,Volkswagen,Crafter,2023,Ute / Tray,Automatic,Diesel,AWD,4.0,2.0,3.0,,,,,,80790.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32084,82402,Volkswagen,Crafter,2023,Ute / Tray,Automatic,Diesel,Front,4.0,2.0,3.0,,,,,,73290.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32092,82410,Volkswagen,Crafter,2023,Ute / Tray,Automatic,Diesel,Front,4.0,2.0,3.0,,,,,,57580.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31774,82089,Volkswagen,Crafter,2023,Ute / Tray,Automatic,Diesel,Front,4.0,4.0,3.0,,,,,,64080.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+31773,82088,Volkswagen,Crafter,2023,Ute / Tray,Automatic,Diesel,Rear,4.0,2.0,3.0,,,,,,65590.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779
+32104,82422,Volkswagen,Crafter,2023,Ute / Tray,Automatic,Diesel,Rear,4.0,2.0,3.0,,,,,,68590.0,,0.0,,,,Australian Vehicle Prices.csv,2026-09-02 12:19:25.615779

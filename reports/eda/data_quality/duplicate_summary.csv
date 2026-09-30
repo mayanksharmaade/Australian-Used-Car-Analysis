@@ -1,0 +1,4 @@
+Metric,Value
+Exact duplicate rows,0
+Rows belonging to duplicated CarListingId,0
+Unique CarListingId values,16675

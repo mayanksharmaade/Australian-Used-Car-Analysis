@@ -1,0 +1,129 @@
+Dataset,SourceFile,SourceColumn,SuggestedSqlColumn,PandasDtype,SuggestedSqlType,RowsSampled,NonNullCount,NullCount,NullPercentage,UniqueCount,MaxStringLength,ExampleValues
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,ModelReleaseYear,ModelReleaseYear,int64,BIGINT,200,200,0,0.0,9,4,2009 | 2010 | 2001
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,Make,Make,object,NVARCHAR(50),200,200,0,0.0,22,13,Mitsubishi | Tesla | Honda
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,ModelReleaseVersion,ModelReleaseVersion,object,NVARCHAR(50),200,48,152,76.0,16,4,WS | WS | R56
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,Model,Model,object,NVARCHAR(50),200,200,0,0.0,49,12,i car | Roadster | Insight
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,Variant,Variant,object,NVARCHAR(50),200,162,38,19.0,81,28,i MiEV | Hybrid | Econetic
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,EngineDisplacement,EngineDisplacement,float64,"DECIMAL(18,4)",200,200,0,0.0,13,6,0.0 | 0.0 | 1.0
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,EngineConfiguration,EngineConfiguration,object,NVARCHAR(50),200,200,0,0.0,3,8,Electric | Electric | 3cyl
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,EngineInduction,EngineInduction,object,NVARCHAR(50),200,198,2,1.0,2,6,Normal | Normal | Normal
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,FwdGearsNo,FwdGearsNo,int64,BIGINT,200,200,0,0.0,7,1,0 | 0 | 5
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,TransmissionTypeDescription,TransmissionTypeDescription,object,NVARCHAR(50),200,198,2,1.0,4,6,Manual | CVT | CVT
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,SideDoorNo,SideDoorNo,int64,BIGINT,200,200,0,0.0,3,1,4 | 2 | 2
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,SeatingCapacity,SeatingCapacity,int64,BIGINT,200,200,0,0.0,4,1,4 | 2 | 2
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,BodyStyle,BodyStyle,object,NVARCHAR(50),200,200,0,0.0,6,11,Wagon | Convertible | Coupe
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,DrivingWheelsNo,DrivingWheelsNo,int64,BIGINT,200,200,0,0.0,2,1,2 | 2 | 2
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,FuelType,FuelType,object,NVARCHAR(50),200,200,0,0.0,6,21,Pure Electric | Pure Electric | Petrol 95RON
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,CO2EmissionsCombined,CO2EmissionsCombined,int64,BIGINT,200,200,0,0.0,37,3,0 | 0 | 80
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,CO2EmissionsUrban,CO2EmissionsUrban,float64,"DECIMAL(18,4)",200,110,90,45.0,43,5,90.0 | 90.0 | 121.0
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,CO2EmissionsExtraUrban,CO2EmissionsExtraUrban,float64,"DECIMAL(18,4)",200,110,90,45.0,33,5,86.0 | 86.0 | 85.0
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,FuelConsumptionCombined,FuelConsumptionCombined,float64,"DECIMAL(18,4)",200,200,0,0.0,24,3,0.0 | 0.0 | 3.4
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,FuelConsumptionUrban,FuelConsumptionUrban,float64,"DECIMAL(18,4)",200,110,90,45.0,30,3,3.9 | 3.9 | 4.6
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,FuelConsumptionExtraUrban,FuelConsumptionExtraUrban,float64,"DECIMAL(18,4)",200,110,90,45.0,20,3,3.7 | 3.7 | 3.2
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,EnergyConsumptionWhkm,EnergyConsumptionWhkm,float64,"DECIMAL(18,4)",200,2,198,99.0,2,5,132.0 | 231.0
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,ElectricRangeKm,ElectricRangeKm,float64,"DECIMAL(18,4)",200,2,198,99.0,2,5,155.0 | 340.0
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,AirPollutionStandard,AirPollutionStandard,object,NVARCHAR(50),200,200,0,0.0,5,7,Pure EV | Pure EV | Euro 3
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,StationaryNoiseData,StationaryNoiseData,float64,"DECIMAL(18,4)",200,177,23,11.5,20,4,0.0 | 0.0 | 70.0
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,TestSpeed,TestSpeed,float64,"DECIMAL(18,4)",200,177,23,11.5,17,6,0.0 | 0.0 | 3900.0
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,IsCurrentModel,IsCurrentModel,object,NVARCHAR(50),200,200,0,0.0,1,2,No | No | No
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,ModelEndYear,ModelEndYear,int64,BIGINT,200,200,0,0.0,14,4,2011 | 2013 | 2005
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,FuelLifeCycleCO2,FuelLifeCycleCO2,int64,BIGINT,200,200,0,0.0,32,3,91 | 159 | 99
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,AnnualTailpipeCO2,AnnualTailpipeCO2,float64,"DECIMAL(18,4)",200,200,0,0.0,37,4,0.0 | 0.0 | 1.12
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,Test Cycle,Test_Cycle,float64,NVARCHAR(255),200,0,200,100.0,0,0,
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,AnnualFuelCost,AnnualFuelCost,int64,BIGINT,200,200,0,0.0,43,4,554 | 970 | 857
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,ModelReleaseYear,ModelReleaseYear,int64,BIGINT,200,200,0,0.0,9,4,2014 | 2009 | 2012
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,Make,Make,object,NVARCHAR(50),200,200,0,0.0,26,13,BMW | Mitsubishi | Mitsubishi
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,ModelReleaseVersion,ModelReleaseVersion,object,NVARCHAR(50),200,67,133,66.5,34,11,ZE0 | 110kW | 110kW
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,Model,Model,object,NVARCHAR(50),200,200,0,0.0,71,22,I01 | i car | i car
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,Variant,Variant,object,NVARCHAR(50),200,185,15,7.5,104,36,i3 | i MiEV | i-MiEV
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,EngineDisplacement,EngineDisplacement,float64,"DECIMAL(18,4)",200,200,0,0.0,14,3,0.0 | 0.0 | 0.0
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,EngineConfiguration,EngineConfiguration,object,NVARCHAR(50),200,200,0,0.0,5,8,Electric | Electric | Electric
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,EngineInduction,EngineInduction,object,NVARCHAR(50),200,181,19,9.5,2,6,Normal | Normal | Turbo
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,FwdGearsNo,FwdGearsNo,int64,BIGINT,200,200,0,0.0,7,1,0 | 0 | 0
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,TransmissionTypeDescription,TransmissionTypeDescription,object,NVARCHAR(50),200,181,19,9.5,4,6,Other | CVT | Auto
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,SideDoorNo,SideDoorNo,int64,BIGINT,200,200,0,0.0,4,1,4 | 4 | 4
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,SeatingCapacity,SeatingCapacity,int64,BIGINT,200,200,0,0.0,4,1,4 | 4 | 4
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,BodyStyle,BodyStyle,object,NVARCHAR(50),200,200,0,0.0,6,11,Sedan | Wagon | Wagon
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,DrivingWheelsNo,DrivingWheelsNo,int64,BIGINT,200,200,0,0.0,2,1,2 | 2 | 2
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,FuelType,FuelType,object,NVARCHAR(50),200,200,0,0.0,10,29,Pure Electric | Pure Electric | Pure Electric
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,CO2EmissionsCombined,CO2EmissionsCombined,int64,BIGINT,200,200,0,0.0,33,3,0 | 0 | 0
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,CO2EmissionsUrban,CO2EmissionsUrban,float64,"DECIMAL(18,4)",200,172,28,14.0,47,5,103.0 | 21.0 | 121.0
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,CO2EmissionsExtraUrban,CO2EmissionsExtraUrban,float64,"DECIMAL(18,4)",200,169,31,15.5,30,5,30.0 | 86.0 | 88.0
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,FuelConsumptionCombined,FuelConsumptionCombined,float64,"DECIMAL(18,4)",200,200,0,0.0,24,3,0.0 | 0.0 | 0.0
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,FuelConsumptionUrban,FuelConsumptionUrban,float64,"DECIMAL(18,4)",200,172,28,14.0,27,3,4.4 | 0.9 | 5.2
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,FuelConsumptionExtraUrban,FuelConsumptionExtraUrban,float64,"DECIMAL(18,4)",200,169,31,15.5,17,3,1.3 | 3.7 | 3.8
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,EnergyConsumptionWhkm,EnergyConsumptionWhkm,float64,"DECIMAL(18,4)",200,32,168,84.0,22,5,129.0 | 132.0 | 135.0
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,ElectricRangeKm,ElectricRangeKm,float64,"DECIMAL(18,4)",200,32,168,84.0,22,5,190.0 | 155.0 | 150.0
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,AirPollutionStandard,AirPollutionStandard,object,NVARCHAR(50),200,200,0,0.0,4,7,Pure EV | Pure EV | Pure EV
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,StationaryNoiseData,StationaryNoiseData,float64,"DECIMAL(18,4)",200,193,7,3.5,23,4,0.0 | 0.0 | 0.0
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,TestSpeed,TestSpeed,float64,"DECIMAL(18,4)",200,193,7,3.5,19,6,0.0 | 0.0 | 0.0
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,IsCurrentModel,IsCurrentModel,object,NVARCHAR(50),200,200,0,0.0,2,3,No | No | No
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,ModelEndYear,ModelEndYear,int64,BIGINT,200,200,0,0.0,13,4,2019 | 2011 | 2016
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,FuelLifeCycleCO2,FuelLifeCycleCO2,int64,BIGINT,200,200,0,0.0,32,3,89 | 91 | 93
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,AnnualTailpipeCO2,AnnualTailpipeCO2,float64,"DECIMAL(18,4)",200,200,0,0.0,33,4,0.0 | 0.0 | 0.0
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,Test Cycle,Test_Cycle,float64,NVARCHAR(255),200,0,200,100.0,0,0,
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,AnnualFuelCost,AnnualFuelCost,int64,BIGINT,200,200,0,0.0,51,4,542 | 554 | 567
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,ModelReleaseYear,ModelReleaseYear,int64,BIGINT,200,200,0,0.0,9,4,2014 | 2009 | 2012
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,Make,Make,object,NVARCHAR(50),200,200,0,0.0,26,13,BMW | Mitsubishi | Mitsubishi
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,ModelReleaseVersion,ModelReleaseVersion,object,NVARCHAR(50),200,67,133,66.5,34,11,ZE0 | 110kW | 110kW
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,Model,Model,object,NVARCHAR(50),200,200,0,0.0,71,22,I01 | i car | i car
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,Variant,Variant,object,NVARCHAR(50),200,185,15,7.5,104,36,i3 | i MiEV | i-MiEV
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,EngineDisplacement,EngineDisplacement,float64,"DECIMAL(18,4)",200,200,0,0.0,14,3,0.0 | 0.0 | 0.0
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,EngineConfiguration,EngineConfiguration,object,NVARCHAR(50),200,200,0,0.0,5,8,Electric | Electric | Electric
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,EngineInduction,EngineInduction,object,NVARCHAR(50),200,181,19,9.5,2,6,Normal | Normal | Turbo
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,FwdGearsNo,FwdGearsNo,int64,BIGINT,200,200,0,0.0,7,1,0 | 0 | 0
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,TransmissionTypeDescription,TransmissionTypeDescription,object,NVARCHAR(50),200,181,19,9.5,4,6,Other | CVT | Auto
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,SideDoorNo,SideDoorNo,int64,BIGINT,200,200,0,0.0,4,1,4 | 4 | 4
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,SeatingCapacity,SeatingCapacity,int64,BIGINT,200,200,0,0.0,4,1,4 | 4 | 4
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,BodyStyle,BodyStyle,object,NVARCHAR(50),200,200,0,0.0,6,11,Sedan | Wagon | Wagon
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,DrivingWheelsNo,DrivingWheelsNo,int64,BIGINT,200,200,0,0.0,2,1,2 | 2 | 2
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,FuelType,FuelType,object,NVARCHAR(50),200,200,0,0.0,10,29,Pure Electric | Pure Electric | Pure Electric
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,CO2EmissionsCombined,CO2EmissionsCombined,int64,BIGINT,200,200,0,0.0,33,3,0 | 0 | 0
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,CO2EmissionsUrban,CO2EmissionsUrban,float64,"DECIMAL(18,4)",200,172,28,14.0,47,5,103.0 | 21.0 | 121.0
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,CO2EmissionsExtraUrban,CO2EmissionsExtraUrban,float64,"DECIMAL(18,4)",200,169,31,15.5,30,5,30.0 | 86.0 | 88.0
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,FuelConsumptionCombined,FuelConsumptionCombined,float64,"DECIMAL(18,4)",200,200,0,0.0,24,3,0.0 | 0.0 | 0.0
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,FuelConsumptionUrban,FuelConsumptionUrban,float64,"DECIMAL(18,4)",200,172,28,14.0,27,3,4.4 | 0.9 | 5.2
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,FuelConsumptionExtraUrban,FuelConsumptionExtraUrban,float64,"DECIMAL(18,4)",200,169,31,15.5,17,3,1.3 | 3.7 | 3.8
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,EnergyConsumptionWhkm,EnergyConsumptionWhkm,float64,"DECIMAL(18,4)",200,32,168,84.0,22,5,129.0 | 132.0 | 135.0
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,ElectricRangeKm,ElectricRangeKm,float64,"DECIMAL(18,4)",200,32,168,84.0,22,5,190.0 | 155.0 | 150.0
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,AirPollutionStandard,AirPollutionStandard,object,NVARCHAR(50),200,200,0,0.0,4,7,Pure EV | Pure EV | Pure EV
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,StationaryNoiseData,StationaryNoiseData,float64,"DECIMAL(18,4)",200,193,7,3.5,23,4,0.0 | 0.0 | 0.0
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,TestSpeed,TestSpeed,float64,"DECIMAL(18,4)",200,193,7,3.5,19,6,0.0 | 0.0 | 0.0
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,IsCurrentModel,IsCurrentModel,object,NVARCHAR(50),200,200,0,0.0,2,3,No | No | No
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,ModelEndYear,ModelEndYear,int64,BIGINT,200,200,0,0.0,13,4,2019 | 2011 | 2016
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,FuelLifeCycleCO2,FuelLifeCycleCO2,int64,BIGINT,200,200,0,0.0,32,3,89 | 91 | 93
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,AnnualTailpipeCO2,AnnualTailpipeCO2,float64,"DECIMAL(18,4)",200,200,0,0.0,33,4,0.0 | 0.0 | 0.0
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,Test Cycle,Test_Cycle,float64,NVARCHAR(255),200,0,200,100.0,0,0,
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,AnnualFuelCost,AnnualFuelCost,int64,BIGINT,200,200,0,0.0,51,4,542 | 554 | 567
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,ModelReleaseYear,ModelReleaseYear,int64,BIGINT,200,200,0,0.0,12,4,2019 | 2025 | 2023
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,Make,Make,object,NVARCHAR(50),200,200,0,0.0,34,13,Hyundai | Tesla | BYD
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,ModelReleaseVersion,ModelReleaseVersion,object,NVARCHAR(50),200,96,104,52.0,29,15,2020 | EM2E | 2021
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,Model,Model,object,NVARCHAR(50),200,200,0,0.0,80,14,Ioniq | Model 3 | DOLPHIN
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,Variant,Variant,object,NVARCHAR(50),200,188,12,6.0,142,37,EV | RWD LR H5MRB 18 Inch wheel | Dynamic
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,EngineDisplacement,EngineDisplacement,float64,"DECIMAL(18,4)",200,200,0,0.0,2,3,0.0 | 0.0 | 0.0
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,EngineConfiguration,EngineConfiguration,object,NVARCHAR(50),200,200,0,0.0,2,8,Electric | Electric | Electric
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,EngineInduction,EngineInduction,object,NVARCHAR(50),200,1,199,99.5,1,6,Normal
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,FwdGearsNo,FwdGearsNo,int64,BIGINT,200,200,0,0.0,2,1,0 | 1 | 1
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,TransmissionTypeDescription,TransmissionTypeDescription,object,NVARCHAR(50),200,143,57,28.5,2,5,Auto | Auto | Auto
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,SideDoorNo,SideDoorNo,int64,BIGINT,200,200,0,0.0,3,1,4 | 4 | 3
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,SeatingCapacity,SeatingCapacity,int64,BIGINT,200,200,0,0.0,5,1,5 | 5 | 5
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,BodyStyle,BodyStyle,object,NVARCHAR(50),200,200,0,0.0,5,5,Sedan | Sedan | Hatch
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,DrivingWheelsNo,DrivingWheelsNo,int64,BIGINT,200,200,0,0.0,2,1,2 | 2 | 2
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,FuelType,FuelType,object,NVARCHAR(50),200,200,0,0.0,1,13,Pure Electric | Pure Electric | Pure Electric
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,CO2EmissionsCombined,CO2EmissionsCombined,int64,BIGINT,200,200,0,0.0,1,1,0 | 0 | 0
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,CO2EmissionsUrban,CO2EmissionsUrban,float64,NVARCHAR(255),200,0,200,100.0,0,0,
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,CO2EmissionsExtraUrban,CO2EmissionsExtraUrban,float64,NVARCHAR(255),200,0,200,100.0,0,0,
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,FuelConsumptionCombined,FuelConsumptionCombined,int64,BIGINT,200,200,0,0.0,1,1,0 | 0 | 0
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,FuelConsumptionUrban,FuelConsumptionUrban,float64,NVARCHAR(255),200,0,200,100.0,0,0,
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,FuelConsumptionExtraUrban,FuelConsumptionExtraUrban,float64,NVARCHAR(255),200,0,200,100.0,0,0,
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,EnergyConsumptionWhkm,EnergyConsumptionWhkm,int64,BIGINT,200,200,0,0.0,42,3,117 | 125 | 126
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,ElectricRangeKm,ElectricRangeKm,int64,BIGINT,200,200,0,0.0,127,3,373 | 750 | 410
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,AirPollutionStandard,AirPollutionStandard,object,NVARCHAR(50),200,200,0,0.0,1,7,Pure EV | Pure EV | Pure EV
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,StationaryNoiseData,StationaryNoiseData,float64,"DECIMAL(18,4)",200,9,191,95.5,5,4,48.0 | 68.0 | 70.0
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,TestSpeed,TestSpeed,float64,"DECIMAL(18,4)",200,19,181,90.5,7,6,3750.0 | 3750.0 | 3750.0
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,IsCurrentModel,IsCurrentModel,object,NVARCHAR(50),200,200,0,0.0,2,3,No | Yes | Yes
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,ModelEndYear,ModelEndYear,int64,BIGINT,200,200,0,0.0,6,4,2022 | 0 | 0
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,FuelLifeCycleCO2,FuelLifeCycleCO2,int64,BIGINT,200,200,0,0.0,30,3,81 | 86 | 87
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,AnnualTailpipeCO2,AnnualTailpipeCO2,int64,BIGINT,200,200,0,0.0,1,1,0 | 0 | 0
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,Test Cycle,Test_Cycle,object,NVARCHAR(50),200,34,166,83.0,3,14,NEDC | NEDC | NEDC
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,AnnualFuelCost,AnnualFuelCost,int64,BIGINT,200,200,0,0.0,42,3,491 | 525 | 529

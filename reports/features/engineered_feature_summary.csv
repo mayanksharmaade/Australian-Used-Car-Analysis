@@ -1,0 +1,14 @@
+Feature,DataType,MissingCount,UniqueValues
+VehicleAge,float64,0,45
+KilometresPerYear,float64,577,14800
+VehicleAgeBand,category,0,6
+KilometreBand,category,577,8
+PriceBand,category,52,9
+MissingFeatureCount,int64,0,9
+HasMissingVehicleData,int64,0,2
+HasVehicleSpecMatch,int64,0,2
+IsElectric,int64,0,2
+IsHybrid,int64,0,2
+IsDiesel,int64,0,2
+LogKilometres,float64,577,14260
+LogListingPrice,float64,52,3793

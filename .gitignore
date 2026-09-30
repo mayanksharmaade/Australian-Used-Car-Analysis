@@ -1,0 +1,46 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# VS Code / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local runtime configuration
+# User requested config.yaml in this generated package, but it should not be committed.
+config/config.yaml
+.env
+*.env
+
+# Raw external datasets
+data/raw/car_listings/*
+data/raw/vehicle_specs/*
+data/raw/locations/*
+data/raw/economic/*
+
+!data/raw/car_listings/.gitkeep
+!data/raw/car_listings/README.md
+!data/raw/vehicle_specs/.gitkeep
+!data/raw/vehicle_specs/README.md
+!data/raw/locations/.gitkeep
+!data/raw/locations/README.md
+!data/raw/economic/.gitkeep
+!data/raw/economic/README.md
+!data/raw/raw_data_manifest.csv
+
+# Generated data
+data/interim/*
+data/processed/*
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+
+# Local artifacts
+*.pkl
+*.joblib
+*.pbix
+*.log
+logs/

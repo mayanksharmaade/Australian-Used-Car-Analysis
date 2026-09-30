@@ -1,0 +1,5 @@
+SourceId,SourceName,DatasetName,Provider,SourceType,Geography,FileFormat,RetrievedDate,RawPath,PrimaryPurpose,Licence,Notes
+SRC001,Australian Vehicle Prices,Australian Vehicle Prices,Kaggle,Download,Australia,CSV,,data/raw/car_listings/Australian Vehicle Prices.csv,Primary used-car listings and ML target,,Add file manually
+SRC002,Green Vehicle Guide,Green Vehicle Guide,Australian Government,CSV export,Australia,CSV,,data/raw/vehicle_specs/,Vehicle specifications fuel emissions enrichment,,Add CSV export(s) manually
+SRC003,Australian Postcode Locality Reference,Australian postcode/locality dataset,G-NAF-derived/community source,Download,Australia,CSV,,data/raw/locations/australian_postcodes.csv,Location postcode state latitude longitude enrichment,,Add file manually
+SRC004,RBA ABS Economic Data,Optional economic context,RBA/ABS,Download,Australia,CSV/XLSX,,data/raw/economic/,Optional time-based context,,Use only if listing date is available

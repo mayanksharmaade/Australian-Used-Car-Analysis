@@ -1,0 +1,6 @@
+SourceListingId,Make,Model,ModelYear,ListingPrice,Kilometres,StateCode,City,Postcode,BodyType,Transmission,FuelType,EngineDescription,ListingDate,SourceName
+S001,Toyota,RAV4,2021,32000,55000,SA,Adelaide,5000,SUV,Automatic,Petrol,2.0L,2026-08-30,Sample
+S002,Mazda,CX-5,2020,29000,62000,VIC,Melbourne,3000,SUV,Automatic,Petrol,2.5L,2026-08-30,Sample
+S003,Hyundai,Tucson,2022,34000,31000,NSW,Sydney,2000,SUV,Automatic,Petrol,2.0L,2026-08-30,Sample
+S004,Ford,Ranger,2019,39500,82000,QLD,Brisbane,4000,Ute,Automatic,Diesel,3.2L,2026-08-30,Sample
+S005,Kia,Cerato,2021,24500,41000,SA,Adelaide,5000,Sedan,Automatic,Petrol,2.0L,2026-08-30,Sample

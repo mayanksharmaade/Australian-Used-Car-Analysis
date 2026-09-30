@@ -1,0 +1,22 @@
+Australian Vehicle Prices - Phase 1 Profiling
+==================================================
+Rows: 16734
+Columns: 19
+Duplicate rows: 0
+Duplicate percentage: 0.00%
+Unique brands: 76
+Unique models: 781
+Unique locations: 618
+Unique fuel types: 9
+Unique transmissions: 3
+Unique body types: 10
+Year minimum: 1940.0
+Year maximum: 2023.0
+Valid numeric prices: 16681
+Price minimum: 88.0
+Price median: 29500.0
+Price maximum: 1500000.0
+Valid numeric kilometres: 16142
+Kilometres minimum: 1.0
+Kilometres median: 85951.5
+Kilometres maximum: 533849.0

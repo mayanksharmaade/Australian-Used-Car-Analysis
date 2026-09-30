@@ -1,0 +1,13 @@
+project:
+  name: "Australian Used Car Market Intelligence & Price Prediction"
+  environment: "local"
+
+database:
+  driver: "ODBC Driver 18 for SQL Server"
+  server: "DESKTOP-NEE3MSU\\SQLEXPRESS"
+  database: "AustralianUsedCarAnalytics"
+  trusted_connection: true
+  username: ""
+  password: ""
+  encrypt: false
+  trust_server_certificate: true

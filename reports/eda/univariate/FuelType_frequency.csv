@@ -1,0 +1,10 @@
+FuelType,ListingCount,Percentage
+Unleaded,6977,41.84
+Diesel,4895,29.36
+Premium,3361,20.16
+Hybrid,649,3.89
+Missing,617,3.7
+Electric,115,0.69
+Other,41,0.25
+LPG,15,0.09
+Leaded,5,0.03

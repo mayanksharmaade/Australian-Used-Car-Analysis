@@ -1,0 +1,11 @@
+Column,UniqueValues,MissingValues,MissingPercentage
+MakeName,76,0,0.0
+ModelName,776,0,0.0
+BodyType,10,281,1.69
+Transmission,2,250,1.5
+FuelType,8,617,3.7
+DriveType,5,0,0.0
+Suburb,0,16675,100.0
+StateCode,0,16675,100.0
+Postcode,0,16675,100.0
+SourceFileName,1,0,0.0

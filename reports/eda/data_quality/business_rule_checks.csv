@@ -1,0 +1,15 @@
+Check,Rows
+ListingPrice <= 0,0
+ListingPrice missing,52
+Kilometres < 0,0
+"Kilometres > 1,000,000",0
+ModelYear < 1950,1
+ModelYear > 2026,0
+FuelConsumptionLPer100Km <= 0,377
+FuelConsumptionLPer100Km > 50,0
+CylinderCount <= 0,106
+CylinderCount > 16,0
+Doors <= 0,0
+Doors > 6,21
+Seats <= 0,0
+Seats > 20,2

@@ -1,0 +1,7 @@
+Dataset,SourceFile,RowsSampled,Columns,DuplicateRowsInSample
+CarListings,Australian Vehicle Prices.csv,5000,19,0
+VehicleSpecifications,green_vehicle_guide_2004_2010.csv,200,32,2
+VehicleSpecifications,green_vehicle_guide_2011_2015.csv,200,32,1
+VehicleSpecifications,green_vehicle_guide_2016_2020.csv,200,32,1
+VehicleSpecifications,green_vehicle_guide_2021_2026.csv,200,32,0
+Locations,australian_postcodes.csv,2640,5,0
